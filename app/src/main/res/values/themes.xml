@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Angell3d" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/angell_bg</item>
+        <item name="android:statusBarColor">@color/angell_bg</item>
+        <item name="android:navigationBarColor">@color/angell_bg</item>
+    </style>
+</resources>
